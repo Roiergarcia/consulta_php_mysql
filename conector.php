@@ -10,4 +10,5 @@
    $database = mysql_select_db('bd_personal',$con);
    if (!$database){die('ERROR CONEXION CON BD: '.mysql_error());}
 /* ********************************************** */
+/* Seactualizará contenido, estar al pendiente */
 ?>
